@@ -4,4 +4,9 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+## Контакты
+
+Для связи с нами используйте следующие контакты:
+
+- **Email**: [contact@opensource-project.org](mailto:contact@opensource-project.org)
+- **GitHub**: [@opensource-project](https://github.com/opensource-project)
